@@ -40,6 +40,15 @@ When a photograph is cluttered or ordinarily composed yet contains something wor
 - Keeps comparisons to exactly two 50:50 regions with no third band or inset.
 - Generates each output independently in one pass from its current original, avoiding repeated stylisation.
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -56,21 +65,6 @@ The Chinese file preserves the user's original verbatim and is the sole runtime 
 | Will the source remain recognisable? | Its most representative contours, movement, pose and visual memories remain. |
 | Is whitespace merely unfinished space? | It clearly exceeds the drawn area and actively organises distance and positive/negative shapes. |
 | Flexible delivery sizes? | Common ratios, exact pixels, four modes and directory batches are supported. |
-
-## Transformation logic
-
-```text
-identify one theme, anchor and emotional relationship → remove the rest → redesign scale, position and crop → reconstruct with fine lines and pale flat colour → organise paper, pale colour blocks and light collage → finish with broad whitespace and sparse handwritten wording
-```
-
-## Recognisable finished traits
-
-- A few simple fine outlines identify the subject, with very few essential interior lines.
-- Light, calm flat areas replace realistic detail; an optional pale theme-colour block supports a subject that may cross its edge.
-- A small stamp-scale subject may be off-centre, edge-adjacent, suspended or cropped; whitespace clearly exceeds the drawn area.
-- 2–4 source colours become high-value, clear, gentle pastels with readable contrast against near-white paper.
-- Very few theme- or mood-derived symbols take one or two strokes, without copying real objects or decorating gaps.
-- Sparse words arise from the subject, action, emotion, memory or metaphor and enter the whitespace in fine, natural, slightly handwritten type.
 
 ## Four output modes
 
