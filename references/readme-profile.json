@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 117｜Fine-Line Pastel Whitespace Chronicle: picks one theme, one visual anchor and one mood from a photo, drops the rest and re-stages even an ordinary shot as a standalone picture — fine hand-drawn lines with few inner strokes, thin, calm flat pastel washes, paper texture, an optional very pale colour block that the subject breaks out of, a small subject that may be moved, recropped or turned, whitespace clearly larger than the drawn area, two to four high-key pastels from the photo on near-white paper, one or two tiny symbols and a few thin handwritten-feeling words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-117 or asks for fine-line pastel, light editorial collage or minimal whitespace illustration from a photo.",
+  "short_description": "细线淡彩留白志：抓住照片里一个视觉锚点，用细线淡彩重新构图，留白大于画面",
+  "zh-CN": {
+    "name": "细线淡彩留白志",
+    "tagline": "抓住照片里的一个视觉锚点，用细线和淡彩重新安排一张留白很多的画。",
+    "look": "只保留一个核心主题和一个视觉锚点，其余大胆删掉，就算原图构图普通或杂乱，也会重新决定主体的大小、位置、方向和裁切。主体用少量纤细手绘线勾出，内部线条极少，颜色是轻薄平静的淡彩大色块，带纸张肌理。主体后面可以垫一块极浅的主题色块，主体会穿出或切过它的边缘，像轻拼贴。主体很小，留白面积明显大于绘制面积。颜色是从照片取的二到四种高明度粉彩，如薄荷绿、雾粉、浅紫、奶油黄、柔蓝，铺在近白纸上。旁边最多一两个小符号，配几个纤细、略带手写感的字。",
+    "traits": [
+      "细线手绘",
+      "淡彩平涂",
+      "轻纸拼贴",
+      "照片取色",
+      "小尺度视觉锚点",
+      "主动留白"
+    ],
+    "good": [
+      "构图普通但有一个好主体的随手拍：路边的一朵花、桌上的一只杯子、窗边的人",
+      "有清楚轮廓和方向感的主体：一只猫的背影、一把椅子、一只鸟",
+      "颜色清淡的照片，或想做成安静壁纸、卡片、文章配图的照片"
+    ],
+    "poor": [
+      "想把所有人物和物件都画进去的照片：合影、热闹的街市",
+      "需要写实细节、浓烈色彩或强对比的需求",
+      "想要主体占满画面、完整背景或光滑矢量效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Fine-Line Pastel Whitespace Chronicle",
+    "tagline": "Takes one visual anchor from a photo and recomposes it in fine lines and pale washes with lots of space.",
+    "look": "Only one core theme and one visual anchor are kept, and the rest is boldly removed; even an ordinary or messy shot gets a new decision on the subject's size, position, direction and crop. The subject is outlined in a few fine hand-drawn lines with very little inside, coloured with thin, calm flat pastel washes on textured paper. A very pale theme-colour block may sit behind it, with the subject breaking out of or cutting across its edge like a light collage. The subject is small and the empty area is clearly larger than the drawn one. Two to four high-key pastels from the photo, such as mint, misty pink, lilac, cream yellow and soft blue, sit on near-white paper. At most one or two tiny symbols appear, with a few thin, handwritten-feeling words.",
+    "traits": [
+      "Fine hand-drawn line",
+      "Pale flat washes",
+      "Light paper collage",
+      "Photo colours",
+      "Small visual anchor",
+      "Deliberate whitespace"
+    ],
+    "good": [
+      "Ordinary snaps with one good subject: a flower by the road, a cup on a table, someone by a window",
+      "Subjects with a clear outline and direction: a cat seen from behind, a chair, a bird",
+      "Softly coloured photos, or ones you want as a quiet wallpaper, card or article image"
+    ],
+    "poor": [
+      "Photos where you want every person and object drawn: group photos, busy street markets",
+      "Requests for realistic detail, strong colour or high contrast",
+      "Requests for a subject that fills the frame, a full background or glossy vectors"
+    ]
+  },
+  "ja": {
+    "name": "細線淡彩余白誌",
+    "tagline": "写真からひとつの視覚の要を取り出し、細い線と淡彩で余白の多い一枚に組み直します。",
+    "look": "残すのは核となるテーマひとつと視覚の要ひとつだけで、あとは大胆に省きます。ありふれた写真や散らかった写真でも、主役の大きさ、位置、向き、切り取り方を決め直します。主役は数本の細い手描き線で描かれ、内側の線はごくわずか。色は薄く穏やかな淡彩の平塗りで、紙の質感があります。主役の後ろにごく淡いテーマ色の色面を敷くこともあり、主役はその縁からはみ出したり横切ったりして、軽いコラージュのようになります。主役は小さく、余白の面積は描いた部分よりはっきり広くとります。色は写真から取った明度の高いパステル二〜四色で、ミント、霞んだピンク、薄紫、クリームイエロー、柔らかな青などを白に近い紙にのせます。小さな記号は多くても一、二個で、細く手書きらしさのある文字が少し添えられます。",
+    "traits": [
+      "細い手描き線",
+      "淡彩の平塗り",
+      "軽い紙のコラージュ",
+      "写真から取った色",
+      "小さな視覚の要",
+      "意図した余白"
+    ],
+    "good": [
+      "構図はふつうでも良い主役がひとついるスナップ：道ばたの一輪の花、テーブルのカップ、窓辺の人",
+      "輪郭と向きがはっきりした主役：猫の後ろ姿、椅子、一羽の鳥",
+      "色の淡い写真や、静かな壁紙、カード、記事の挿絵にしたい写真"
+    ],
+    "poor": [
+      "人や物を全部描き込みたい写真：集合写真、にぎやかな市場",
+      "写実的な細部、強い色、強いコントラストを求める場合",
+      "主役で画面を埋める絵、背景まで描いた絵、つるっとしたベクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "가는 선 담채 여백 기록",
+    "tagline": "사진에서 시각적 중심 하나를 골라, 가는 선과 옅은 채색으로 여백 많은 한 장을 다시 짭니다.",
+    "look": "핵심 주제 하나와 시각적 중심 하나만 남기고 나머지는 과감히 지웁니다. 평범하거나 어수선한 사진이라도 주인공의 크기, 위치, 방향, 자르기를 새로 정합니다. 주인공은 몇 줄의 가는 손그림 선으로 그리고 안쪽 선은 아주 적으며, 색은 얇고 차분한 담채 평면으로 칠해 종이 질감이 남습니다. 주인공 뒤에 아주 연한 주제색 면을 깔기도 하는데, 주인공이 그 가장자리를 뚫고 나오거나 가로질러 가벼운 콜라주처럼 보입니다. 주인공은 작고, 여백은 그린 부분보다 확실히 넓습니다. 색은 사진에서 가져온 명도 높은 파스텔 두세 가지에서 네 가지로, 민트, 안개 핑크, 연보라, 크림 옐로, 부드러운 파랑 등을 흰색에 가까운 종이 위에 둡니다. 작은 기호는 많아야 한두 개이며, 가늘고 손글씨 느낌이 나는 글자 몇 개가 곁들여집니다.",
+    "traits": [
+      "가는 손그림 선",
+      "옅은 평면 채색",
+      "가벼운 종이 콜라주",
+      "사진에서 뽑은 색",
+      "작은 시각적 중심",
+      "의도한 여백"
+    ],
+    "good": [
+      "구도는 평범해도 좋은 주인공 하나가 있는 스냅: 길가의 꽃 한 송이, 탁자 위 컵, 창가의 사람",
+      "윤곽과 방향이 분명한 주인공: 고양이 뒷모습, 의자, 새 한 마리",
+      "색이 옅은 사진이나, 조용한 배경화면, 카드, 글 삽화로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "모든 사람과 물건을 다 그려 넣고 싶은 사진: 단체 사진, 북적이는 시장",
+      "사실적인 세부, 강한 색, 높은 대비를 원하는 경우",
+      "주인공이 화면을 꽉 채우는 그림, 배경까지 그린 그림, 매끈한 벡터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "سجلّ الخطوط الرفيعة والباستيل والفراغ",
+    "tagline": "يأخذ مرساة بصرية واحدة من الصورة ويعيد تكوينها بخطوط رفيعة وألوان باهتة وفراغ كثير.",
+    "look": "لا يبقى إلا موضوع جوهري واحد ومرساة بصرية واحدة، ويُحذف الباقي بجرأة؛ وحتى اللقطة العادية أو المبعثرة يُعاد فيها تقرير حجم العنصر وموضعه واتجاهه وقصّه. يُحدَّد العنصر ببضعة خطوط يدوية رفيعة مع القليل جداً في داخله، ويُلوَّن بمساحات باستيل مسطحة رقيقة هادئة على ورق ذي ملمس. قد تقف خلفه مساحة لونية شديدة الفتوح من لون الموضوع، يخرج العنصر من حافتها أو يقطعها ككولاج خفيف. العنصر صغير، والمساحة الفارغة أكبر بوضوح من المرسومة. تستقر لونان إلى أربعة من درجات الباستيل الفاتحة المأخوذة من الصورة، كالنعناعي والوردي الضبابي والليلكي والأصفر الكريمي والأزرق الناعم، على ورق يقارب البياض. لا يظهر إلا رمز صغير أو اثنان على الأكثر، مع بضع كلمات رفيعة توحي بخط اليد.",
+    "traits": [
+      "خط يدوي رفيع",
+      "ألوان مسطحة باهتة",
+      "كولاج ورقي خفيف",
+      "ألوان من الصورة",
+      "مرساة بصرية صغيرة",
+      "فراغ مقصود"
+    ],
+    "good": [
+      "لقطات عادية فيها عنصر واحد جيد: زهرة على جانب الطريق، فنجان على طاولة، شخص قرب نافذة",
+      "عناصر بمحيط واتجاه واضحين: قطة من الخلف، كرسي، طائر",
+      "صور ناعمة الألوان، أو صور تريدها خلفية هادئة أو بطاقة أو صورة لمقال"
+    ],
+    "poor": [
+      "صور تريد رسم كل شخص وغرض فيها: الصور الجماعية، الأسواق المزدحمة",
+      "طلب تفاصيل واقعية أو ألوان قوية أو تباين عالٍ",
+      "طلب عنصر يملأ الإطار أو خلفية كاملة أو متجهات لامعة"
+    ]
+  }
+}
